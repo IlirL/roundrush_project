@@ -1,0 +1,123 @@
+.current-component-title-sign-up {
+  /* width: 71px !important;
+  height: 36px !important; */
+
+  /* Title / Bold / Title-4-24px */
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  line-height: 36px !important;
+  /* identical to box height, or 150% */
+
+  /* display: flex !important;
+  align-items: center !important;
+  text-align: right !important; */
+
+  /* Neutral / 90 */
+
+  color: #464356 !important;
+
+  /* Inside auto layout */
+
+  /* flex: none !important;
+  order: 0 !important;
+  flex-grow: 0 !important; */
+  margin-top: 3em !important;
+}
+
+.welcome-message-sign-up {
+  width: 350px !important;
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
+  /* identical to box height, or 129% */
+
+  /* display: flex !important;
+  align-items: center !important; */
+
+  /* Neutral / 70 */
+
+  color: #6f6d7b !important;
+
+  /* Inside auto layout */
+
+  /* flex: none !important;
+  order: 1 !important;
+  flex-grow: 0 !important; */
+}
+
+.MuiFormControl-root.css-1nrlq1o-MuiFormControl-root {
+  margin-top: 2em !important;
+  max-width: fit-content !important;
+  display: flex !important;
+  flex-direction: column !important;
+  /* gap: 1em !important; */
+}
+
+#workspace-name {
+  width: 600px;
+  margin-bottom: 1em;
+}
+#email {
+  width: 600px;
+}
+
+.agree-with-conditions {
+  max-width: 600px;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 21px !important;
+}
+
+.sign-up-message-redirect-message {
+  margin-top: 3em;
+  display: flex;
+}
+
+.sign-up-message {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* or 129% */
+
+  /* Neutral / 80 */
+
+  color: #5a5869;
+
+  /* Inside auto layout */
+}
+.redirect-message {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  margin-left: 0.6em !important;
+  color: #2ccfbc !important;
+}
+
+.redirect-message:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+
+.sign-up-button {
+  margin-top: 2em !important;
+  max-width: 600px;
+}
+
+.text.terms-conditions-privacy-cookie {
+  color: #2ccfbc !important;
+}
