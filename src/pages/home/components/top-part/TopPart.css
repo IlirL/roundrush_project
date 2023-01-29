@@ -1,0 +1,53 @@
+.top-part {
+  /* width: 100vw !important; */
+  position: relative;
+  border-radius: 0 !important;
+  /* position: absolute; */
+  /* top: 0; */
+  z-index: 10;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  /* padding-left: 2em; */
+  width: 100vw;
+  box-shadow: none !important   ;
+  /* max-width: 100vw; */
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.history-main {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 36px;
+  margin-left: 2em;
+}
+
+.menu-icon {
+  width: 8vw;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-left: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 36px;
+}
+
+.menu-icon:hover:not(.Mui-disabled) {
+  cursor: pointer !important;
+}
+.b-nav-bar {
+  background-color: #04385a !important ;
+  color: white;
+}
