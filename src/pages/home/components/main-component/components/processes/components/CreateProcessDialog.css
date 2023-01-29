@@ -1,0 +1,56 @@
+.dialog-title-create-process-dialog {
+  width: 212px !important;
+  height: 36px !important;
+
+  /* Title / Bold / Title-5-20px */
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 36px !important;
+  /* identical to box height, or 180% */
+
+  display: flex !important;
+  align-items: center !important;
+
+  /* Neutral / 90 */
+
+  color: #464356;
+}
+
+.dialog-content-create-process-dialog {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.dialog-content-create-process-dialog
+  > .MuiFormControl-root
+  > .MuiInputBase-root
+  > input {
+  width: 555px;
+}
+
+.dialog-content-create-process-dialog > .MuiFormControl-root:first-child {
+  margin-top: 1em;
+}
+
+.create-process-dialog-button {
+  background-color: #2ccfbc !important;
+  color: white !important;
+  border-radius: 8px !important;
+  padding: 0px 12px !important;
+
+  width: 77px !important;
+  height: 40px !important;
+}
+
+.cancel-process-dialog-button {
+  padding: 0px 12px !important;
+
+  width: 77px !important;
+  height: 40px !important;
+  border: 1px solid #04385a !important;
+  border-radius: 8px !important;
+  color: #04385a !important;
+}

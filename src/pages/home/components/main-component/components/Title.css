@@ -1,0 +1,14 @@
+.dashboard-title {
+  width: 410px !important;
+  height: 45px !important;
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 36px !important;
+  line-height: 45px !important;
+  /* identical to box height, or 125% */
+
+  /* Neutral / 90 */
+
+  color: #464356 !important;
+}

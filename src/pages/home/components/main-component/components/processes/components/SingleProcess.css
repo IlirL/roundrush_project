@@ -1,0 +1,71 @@
+.dashboard-process-card {
+  height: 8em !important;
+  width: 8em !important;
+  border-radius: 8px;
+  position: relative;
+}
+
+.dashboard-process-card:hover:not(.Mui-disabled) {
+  cursor: pointer !important;
+}
+
+.icon-process-card
+  > .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+  color: grey;
+}
+
+.icon-process-card
+  > .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root:hover:not(
+    .Mui-disabled
+  ) {
+  cursor: pointer !important;
+}
+
+.icon-process-card {
+  width: 100%;
+  /* height: 100%; */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin-top: 2em;
+}
+.description-process-card {
+  width: 126px !important;
+  height: 24px !important;
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  /* identical to box height, or 150% */
+
+  text-align: center !important;
+
+  /* Neutral / White */
+
+  color: #ffffff !important;
+  margin-top: 0.5em;
+}
+
+.lock-icon-process-card {
+  position: absolute;
+  top: 0em;
+  left: 0.5em;
+}
+.more-icon-process-card {
+  position: absolute;
+  top: 0em;
+  right: 0em;
+}
+
+.more-icon-process-card > .MuiSvgIcon-root {
+  color: white !important;
+  height: 10px !important;
+}
+.more-icon-process-card > .MuiSvgIcon-root:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+
+.lock-icon-process-card:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}

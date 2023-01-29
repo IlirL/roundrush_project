@@ -1,0 +1,6 @@
+.dashboard-processes {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+  gap: 1em;
+  margin-top: 2em;
+}
