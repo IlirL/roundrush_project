@@ -1,0 +1,42 @@
+.navigation-bar {
+  position: fixed;
+  height: 92vh !important;
+  overflow-y: hidden !important;
+  width: 8vw !important;
+  background-color: #04385a !important;
+  border-radius: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center;
+}
+
+.navigation-bar > img {
+  margin-top: 1.3em;
+}
+
+.navigation-bar > img:hover:not(.Mui-disabled) {
+  cursor: pointer !important;
+}
+
+.navigation-bar > .logo-coraly-icon-container {
+  flex: 1 !important;
+  padding: 0 !important;
+  display: flex !important;
+  align-items: end !important;
+  justify-content: center !important;
+  margin-bottom: 2em !important;
+}
+.arrow-icons-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 0.2em;
+  margin-top: 1em;
+}
+.arrow-icons-container:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+
+.do-not-show {
+  width: 0 !important;
+}
