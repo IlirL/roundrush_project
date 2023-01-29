@@ -50,6 +50,86 @@ function Processes() {
       backgroundColor: "lightblue",
       private: false,
     },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
+    {
+      name: "Process 6",
+      backgroundColor: "lightblue",
+      private: false,
+    },
   ];
   return (
     <Box className="dashboard-processes">

@@ -1,5 +1,6 @@
 .navigation-bar {
   position: fixed;
+  margin-top: 8vh;
   height: 92vh !important;
   overflow-y: hidden !important;
   width: 8vw !important;
